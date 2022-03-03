@@ -1,0 +1,3 @@
+/home/user-rungkut/Coba2CV/CMakeFiles/rebuild_cache.dir
+/home/user-rungkut/Coba2CV/CMakeFiles/edit_cache.dir
+/home/user-rungkut/Coba2CV/CMakeFiles/app.dir
